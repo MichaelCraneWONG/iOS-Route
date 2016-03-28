@@ -2,7 +2,7 @@
     "name": "iOS开发路线",
     "children": [
         {
-            "name": "<a href="www.baidu.com">操作系统<a>",
+            "name": "操作系统",
             "children": [
                 {
                     "name": "Mac系统使用"
